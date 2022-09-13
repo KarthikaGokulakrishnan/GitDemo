@@ -1,0 +1,152 @@
+2022-09-12 17:26:21,530 :INFO :test_end2end :Getting all the titles
+2022-09-12 17:26:21,743 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 17:26:27,512 :INFO :test_end2end :2
+2022-09-12 17:26:27,743 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 17:29:45,802 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 17:29:51,053 :INFO :test_end2end :2
+2022-09-12 17:29:51,317 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 17:34:07,432 :INFO :test_end2end :Getting all the titles
+2022-09-12 17:34:07,683 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 17:34:12,948 :INFO :test_end2end :2
+2022-09-12 17:34:13,238 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 17:38:48,150 :INFO :test_end2end :Getting all the titles
+2022-09-12 17:38:48,354 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 17:38:53,657 :INFO :test_end2end :2
+2022-09-12 17:38:53,855 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 17:39:47,926 :INFO :test_end2end :Getting all the titles
+2022-09-12 17:39:48,143 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 17:39:53,410 :INFO :test_end2end :2
+2022-09-12 17:39:53,606 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 18:17:18,957 :INFO :test_end2end :Getting all the titles
+2022-09-12 18:17:18,975 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:17:18,991 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:17:19,007 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:17:19,021 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:17:19,148 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 18:17:24,458 :INFO :test_end2end :2
+2022-09-12 18:17:24,647 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 18:18:40,594 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 18:18:41,342 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 18:18:41,342 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 18:56:10,099 :INFO :test_end2end :Getting all the titles
+2022-09-12 18:56:10,117 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:56:10,133 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:56:10,149 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:56:10,163 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 18:56:10,285 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 18:56:15,719 :INFO :test_end2end :2
+2022-09-12 18:56:15,929 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 18:56:21,311 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 18:56:22,093 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 18:56:22,093 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:17:24,552 :INFO :test_end2end :Getting all the titles
+2022-09-12 19:17:24,570 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:17:24,588 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:17:24,605 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:17:24,622 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:17:24,760 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 19:17:30,071 :INFO :test_end2end :2
+2022-09-12 19:17:30,255 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 19:17:35,655 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:17:36,321 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:17:36,321 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:20:12,753 :INFO :test_end2end :Getting all the titles
+2022-09-12 19:20:12,769 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:20:12,785 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:20:12,800 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:20:12,819 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 19:20:12,974 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 19:20:18,373 :INFO :test_end2end :2
+2022-09-12 19:20:18,586 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 19:20:23,897 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:20:24,678 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 19:20:24,678 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:27:56,468 :INFO :test_end2end :Getting all the titles
+2022-09-12 20:27:56,488 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:27:56,505 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:27:56,521 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:27:56,538 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:27:56,668 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 20:28:01,989 :INFO :test_end2end :2
+2022-09-12 20:28:02,201 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 20:28:07,738 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:28:08,448 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:28:08,448 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:38:02,867 :INFO :test_end2end :Getting all the titles
+2022-09-12 20:38:02,889 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:38:02,907 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:38:02,925 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:38:02,942 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:38:03,080 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 20:38:08,428 :INFO :test_end2end :2
+2022-09-12 20:38:08,628 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 20:38:15,194 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:38:15,923 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:38:15,923 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:40:17,026 :INFO :test_end2end :Getting all the titles
+2022-09-12 20:40:17,084 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:40:17,142 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:40:17,187 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:40:17,218 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:40:18,297 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 20:40:23,542 :INFO :test_end2end :2
+2022-09-12 20:40:25,778 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 20:42:26,279 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:42:29,027 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:42:29,027 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:46:21,080 :INFO :test_end2end :Getting all the titles
+2022-09-12 20:46:21,100 :INFO :test_end2end :b'iphone X\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:46:21,119 :INFO :test_end2end :b'Samsung Note 8\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:46:21,136 :INFO :test_end2end :b'Nokia Edge\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:46:21,152 :INFO :test_end2end :b'Blackberry\n$24.99\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.\nAdd \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x86'
+2022-09-12 20:46:21,285 :INFO :test_end2end :Entering Country Name as India
+2022-09-12 20:46:26,614 :INFO :test_end2end :2
+2022-09-12 20:46:26,836 :INFO :test_end2end :text received from thr application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-12 20:46:31,952 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:46:32,682 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-12 20:46:32,682 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-13 09:39:25,403 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-13 09:39:26,145 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-13 09:39:26,145 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2022-09-13 10:46:17,470 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
